@@ -110,6 +110,8 @@
         Else
             _Image = Nothing
             ListBox1.Items.Insert(0, "There is no Username specified.")
+            Button1.Enabled = False
+            Button2.Enabled = False
         End If
         UpdateImage(_Image)
     End Sub
