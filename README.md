@@ -1,4 +1,4 @@
-MinecraftSkinManager
+Minecraft Skin Manager
 ====================
 
 Minecraft Skin Manager,
@@ -10,4 +10,4 @@ Information on the license here: http://creativecommons.org/licenses/by-nc-sa/4.
 
 Current Version: 1.0.0.0
 
-Current Features: Search, save, and use skin buttons.
+Current Features: Search, save, and use skins
