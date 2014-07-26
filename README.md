@@ -2,7 +2,7 @@ Minecraft Skin Manager
 ====================
 
 Minecraft Skin Manager,
-© 2014, Foxtrek_64
+Author: Foxtrek_64
 
 Source Code and Pre-compiled versions are packaged with an Attribution-NonCommercial-ShareAlike 4.0 International license.
 
